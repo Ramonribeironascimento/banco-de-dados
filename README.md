@@ -1,5 +1,5 @@
 
-# EP4 - Projeto SQL
+# Projeto SQL
 
 Este pacote contém todos os arquivos necessários para o trabalho Modelagem de Banco de Dados - Experiência Prática IV
 
